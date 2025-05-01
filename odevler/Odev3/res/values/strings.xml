@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="kahveBaslik">Caramel Frappuccino</string>
+    <string name="uzunYazi">Tall</string>
+    <string name="ortaYazi">Grande</string>
+    <string name="kucukYazi">Venti</string>
+    <string name="ozelYazi">Custom</string>
+    <string name="teslimatSure">15 min</string>
+    <string name="teslimatBaslik">Delivery</string>
+    <string name="kahveAciklama">Start your day with the perfect cup of coffee!!</string>
+    <string name="fiyatYazi">$2.25</string>
+    <string name="buttonYazi">ADD TO ORDER</string>
+</resources>
